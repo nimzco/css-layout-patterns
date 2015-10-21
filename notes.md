@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=kc8qQnQ52NA
-https://speakerdeck.com/nima/keys-to-frontend-architecture
+https://speakerdeck.com/nimz_co/keys-to-frontend-architecture
 https://vimeo.com/44773888
 
 http://csswizardry.com/csswizardry-grids/
